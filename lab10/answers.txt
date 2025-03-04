@@ -1,0 +1,6 @@
+1. (7 choose 2) * (14 choose 3) + (7 choose 3) * (14 choose 2) + (7 choose 4) * (14 choose 1) + (7 choose 5) = 7336
+2. 32 choose 23 = 28048800  
+3. 7 choose 2 = 21
+4. 11!/(2!2!3!) = 1663200, 10!/(2!2!3!) = 151200
+5. 5^30 = 931322574615478515625
+6. These are weak compositions: (30+5-1 choose 5) = 278,256

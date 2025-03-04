@@ -1,0 +1,11 @@
+Answers go here!
+
+1. There was a typo where "invaders[invaderRow][invaderRow]" should have been "invaders[invaderRow][invaderCol]" on line 249. 
+
+2. There was a stray semicolon on line 27.
+
+3. On line 62 the colIdx is not incremented, resulting in the infinite loop.
+
+4. Line 218 had the rows and columns of the invaders switched.
+
+5. The comparisons made on lines 113 and 117 were both flipped.

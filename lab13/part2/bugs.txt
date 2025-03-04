@@ -1,0 +1,5 @@
+remove function doesn't decrement size
+
+when inserting at bad index, size is still incremented
+
+insertion replaces the value at the next index with garbage, and the value is lost

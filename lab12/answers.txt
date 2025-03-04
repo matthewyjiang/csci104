@@ -1,0 +1,28 @@
+1.
+
+If p is a prime and p | ab, gcd(p, a) = 1. 
+
+By the above theorem, if p | ab and gcd(p,a) = 1, then p | b. 
+
+Therefore, p | a or p | b.
+
+2.
+
+To prove the property of double hashing, we need to prove that for the first p probes, that for any h and k in [0, p-1] that 
+h+c*k mod p for all c [0,p-1] are all unique.
+
+Proof by contradiction:
+
+Given two different probes (h+a*k) mod p and (h+b*k) mod p where a != b and a, b in [0,p-1],
+assume they fall at the same location. Then,
+
+h+a*k = h+b*k (mod p)
+a*k = b*k (mod p)
+k*(a-b) = 0 (mod p)
+
+
+This means that either p | k or p | a-b.
+
+However, this is not possible since k < p and |a-b| < p. 
+
+Therefore, the first p probes are all unique.
