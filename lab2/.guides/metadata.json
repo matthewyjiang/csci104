@@ -1,0 +1,29 @@
+{
+ "sections": [
+  {
+   "id": "bcad77e9-e8c3-89c3-02fa-652f13359a80",
+   "title": "Lab 2 - GDB (aka Jamie's GDB House of Horrors)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-2---GDB--aka-Jamie-s-GDB-House-of-Horrors--bcad.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}
