@@ -1,0 +1,5 @@
+1. The -c flag tells the compiler to compile only, without linking
+
+2. It allows you to compile one file without having to recompile others
+
+3. All files (dependencies) that affect the compilation of the target
